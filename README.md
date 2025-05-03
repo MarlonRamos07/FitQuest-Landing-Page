@@ -4,3 +4,4 @@ Foi um ótimo desafio para o término do 1° semestre, fizemos todos os processo
 
 
 Link para o projeto: fitquestlp.netlify.app
+Caso demore o carregamento das imagens ou simplesmente não carregue, pode só clicar com o botão direito e depois selecionar a opção " Carregar Imagem ".
