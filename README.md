@@ -3,5 +3,6 @@ Trabalho Integrado das disciplinas de UX Experience e Desenvolvimento de Interfa
 Foi um ótimo desafio para o término do 1° semestre, fizemos todos os processos de UX e na parte do desenvolvimento tivemos a opção de utilizar Tailwind CSS e CSS puro, onde optei por desenvolver de forma manual o meu código, com uma funcionalidade em Javascript que seria o botão de retorno ao topo da página.
 
 
-Link para o projeto: fitquestlp.netlify.app
+Link para o projeto: https://fit-quest-landing-page.vercel.app/
+
 Caso demore o carregamento das imagens ou simplesmente não carregue, pode só clicar com o botão direito e depois selecionar a opção " Carregar Imagem ".
