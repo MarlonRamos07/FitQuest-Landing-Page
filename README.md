@@ -20,7 +20,7 @@ Figma (Design e prototipagem)
 
 Git & GitHub
 
-##📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
 FitQuest-Landing-Page/
 
@@ -32,7 +32,7 @@ FitQuest-Landing-Page/
 
 ├── README.md          # Documentação do projeto
 
-##🎨 Layout (Figma)
+## 🎨 Layout (Figma)
 
 https://www.figma.com/design/hY7z0EkIOuNUcne1S9mmkX/Wireframe-FitApp?node-id=103-288&t=Qo7cTCLe3crVsC1A-1
 
