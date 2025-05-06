@@ -8,7 +8,7 @@ A aplicação tem como finalidade simular uma campanha de divulgação para um a
 
 Com JavaScript, foram implementadas interações como rolagem automática ao topo e efeitos de clique.
 
-##🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 HTML5
 
