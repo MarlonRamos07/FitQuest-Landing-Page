@@ -45,5 +45,5 @@ https://fit-quest-landing-page.vercel.app/
 ## 👨‍💻 Autor
 Marlon Ramos
 
-🔗 GitHub: @MarlonRamos07
+🔗 GitHub: https://github.com/MarlonRamos07
 
